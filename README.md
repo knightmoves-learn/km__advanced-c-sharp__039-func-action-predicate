@@ -20,13 +20,15 @@
 - Along with `using` statements being added, any packages needed for the assignment have been pre-installed for you, however in the future you may need to add these yourself
 
 ## Building toward CSTA Standards:
-
-- Document design decisions using text, graphics, presentations, and/or demonstrations in the development of complex programs (3A-AP-23) https://www.csteachers.org/page/standards
-- Systematically design and develop programs for broad audiences by incorporating feedback from users (3A-AP-19) https://www.csteachers.org/page/standards
+- Decompose problems into smaller components through systematic analysis, using constructs such as procedures, modules, and/or objects (3A-AP-17) https://www.csteachers.org/page/standards
+- Create artifacts by using procedures within a program, combinations of data and procedures, or independent but interrelated programs (3A-AP-18) https://www.csteachers.org/page/standards
+- Construct solutions to problems using student-created components, such as procedures, modules and/or objects (3B-AP-14) https://www.csteachers.org/page/standards
+- Demonstrate code reuse by creating programming solutions using libraries and APIs (3B-AP-16) https://www.csteachers.org/page/standards
+- Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables (3A-AP-14) https://www.csteachers.org/page/standards
+- Create computational models that represent the relationships among different elements of data collected from a phenomenon or process (3A-DA-12) https://www.csteachers.org/page/standards
 
 ## Resources
-
-- https://swagger.io/
-- https://github.com/dotnet/aspnet-api-versioning/wiki/API-Documentation
+- https://www.c-sharpcorner.com/article/func-delegate-in-c-sharp/
+- https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions
 
 Copyright &copy; 2025 Knight Moves. All Rights Reserved.
